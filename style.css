@@ -50,3 +50,22 @@ h1
     background-repeat:no-repeat;
     background-position:right;
 }
+.experience
+{
+    background-image: url(image/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.experience-item
+{
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 10px gray;
+    width: 40%;
+    padding-left: 10px;
+}
+
+footer p
+{
+    text-align: center;
+}
