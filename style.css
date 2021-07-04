@@ -16,6 +16,7 @@ section
 {
     
     display:flex;
+    margin:200px;
 }
 .half-width
 {
@@ -27,6 +28,7 @@ section
 .half-width img
 {
     width: 80%;
+    border-radius: 50%;
     
 }
 .hire-button
